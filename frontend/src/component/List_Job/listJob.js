@@ -61,7 +61,7 @@ class JobList extends Component {
                                     <th>S.No</th>
                                     <th>Job Title</th>
                                     <th>Job Location</th>
-                                    <th>Job Description</th>
+                                    <th>Job Description</th> 
                                     <th>Date</th>
                                     <th>Job status</th>
                                     <th>Action</th>
